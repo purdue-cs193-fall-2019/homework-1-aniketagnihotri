@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-#Aniket Agnihotri's First CS193 Homework
--CS 193 is a much smaller class than CS 180, so I feel like I can meet & form groups more easily.
--CS 193 covers real-life resources that will benefit me in addition to CS 180 and other object-oriented and coding courses.
+# Aniket Agnihotri's First CS193 Homework
+- CS 193 is a much smaller class than CS 180, so I feel like I can meet & form groups more easily.
+- CS 193 covers real-life resources that will benefit me in addition to CS 180 and other object-oriented and coding courses.
 
